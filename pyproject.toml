@@ -15,7 +15,7 @@ authors     = ["Ryan Parman <ryan@ryanparman.com>"]
   mkdocs-minify-plugin                      = "^0.6.4"
   mkdocs-pymdownx-material-extras           = "^1.1.1"
   mkdocs-redirects                          = "^1.2.0"
-  pillow                                    = "^9.5.0"
+  pillow                                    = "^10.3.0"
   mkdocs-git-committers-plugin-2 = "^1.1.2"
 
     [tool.poetry.dependencies.mkdocs-material]
